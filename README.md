@@ -1,7 +1,10 @@
 # Infernal Machine Works
 
+
 > **Building machines that build machines.**
 > Open infrastructure for autonomous and AI-assisted engineering — from reasoning to reality.
+
+![](https://raw.githubusercontent.com/Infernal-Machine-Works/.github/refs/heads/master/_images/profile002.png)
 
 **Infernal Machine Works** is a collection of open-source tools for building systems that can design, simulate, validate, manufacture and operate things in the real world.
 
